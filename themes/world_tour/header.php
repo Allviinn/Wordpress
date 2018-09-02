@@ -11,4 +11,4 @@
 		<?php if (function_exists(my_main_menu())) my_main_menu(); ?>
 	</header>
 
-	<div id="main">
+	<div class="container">
